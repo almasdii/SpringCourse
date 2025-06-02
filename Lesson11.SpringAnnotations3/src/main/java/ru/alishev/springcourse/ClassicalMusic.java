@@ -3,7 +3,7 @@ package ru.alishev.springcourse;
 import org.springframework.stereotype.Component;
 
 /**
- * @author Neil Alishev
+ * @autho
  */
 @Component
 public class ClassicalMusic implements Music {
